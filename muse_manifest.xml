@@ -1,0 +1,126 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://files.000webhost.com" ftp_rootfolder="/public_html" exportTarget="FTP" domain="anuragpradhan.000webhostapp.com" resolutions="1x,2x" timestamp="1489677983226">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3831808860" ref="phone>index:phone>home"/>
+      <file name="index.css" crc="3846792357" ref="phone>index"/>
+      <file name="home.css" crc="3761078749" ref="phone>home"/>
+    </folder>
+    <file name="index.html" crc="490942878" seo="true" mt="1489677898127" redirect="true"/>
+    <file name="home.html" crc="453612799" seo="true" mt="1489677944274" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="untitled-2.css" crc="431004851" ref="untitled-2"/>
+    <file name="index.css" crc="3779528435" ref="index"/>
+    <file name="nomq_index.css" crc="4148128354" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:phone>index:phone>home"/>
+    <file name="museutils.js" crc="163421577" ref="index:untitled-2:phone>index:phone>home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:phone>index:phone>home"/>
+    <file name="museconfig.js" crc="168988563" ref="index:untitled-2:phone>index:phone>home"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:untitled-2:phone>index:phone>home"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:untitled-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:phone>index:phone>home"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u2883.php" crc="4054700589" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:untitled-2"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:untitled-2:phone>index:phone>home"/>
+  </folder>
+  <folder name="images">
+    <file name="u913-4.png" crc="413783107" ref="index"/>
+    <file name="u913-4_2x.png" crc="148641456" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:untitled-2"/>
+    <file name="or8pxxm.jpg" crc="487287367" ref="index"/>
+    <file name="myxj_20160830180924_save.jpg" crc="55589892" ref="index"/>
+    <file name="myxj_20160830180924_save_2x.jpg" crc="44271453" ref="index"/>
+    <file name="thumb-1920-394749.jpg" crc="3852358475" ref="index"/>
+    <file name="iitr hd.jpg" crc="3933441107" ref="index"/>
+    <file name="iitr hd_2x.jpg" crc="3919631796" ref="index"/>
+    <file name="customer-experience.jpg" crc="24247676" ref="index"/>
+    <file name="customer-experience_2x.jpg" crc="3981946602" ref="index"/>
+    <file name="laptop_room_on_the_desk_keyboard_mouse_apple_window_interior_73963_1920x1080.jpg" crc="4093777745" ref="index"/>
+    <file name="video-editing-software-hero-02.jpg" crc="1298674" ref="index"/>
+    <file name="video-editing-software-hero-02_2x.jpg" crc="338628393" ref="index"/>
+    <file name="download.jpg" crc="176260445" ref="index"/>
+    <file name="12_15.jpg" crc="369578705" ref="index"/>
+    <file name="12_15_2x.jpg" crc="498149383" ref="index"/>
+    <file name="images.jpg" crc="225149664" ref="index"/>
+    <file name="imac_apple_computer_table_cup_notebook_109176_1920x1080.jpg" crc="535433856" ref="index"/>
+    <file name="ppl.png" crc="4165650688" ref="index"/>
+    <file name="ppl_2x.png" crc="247462158" ref="index"/>
+    <file name="ael.png" crc="195983997" ref="index"/>
+    <file name="ael_2x.png" crc="4044703523" ref="index"/>
+    <file name="download2.jpg" crc="3782431379" ref="index"/>
+    <file name="download_2x.jpg" crc="303040063" ref="index"/>
+    <file name="aml.jpg" crc="3878250978" ref="index"/>
+    <file name="aml_2x.jpg" crc="178501675" ref="index"/>
+    <file name="psl.jpg" crc="213062152" ref="index"/>
+    <file name="psl_2x.jpg" crc="4256192820" ref="index"/>
+    <file name="msol.png" crc="471351812" ref="index"/>
+    <file name="msol_2x.png" crc="339125156" ref="index"/>
+    <file name="ail.png" crc="233031643" ref="index"/>
+    <file name="ail_2x.png" crc="45850898" ref="index"/>
+    <file name="magix.jpg" crc="4101586853" ref="index"/>
+    <file name="magix_2x.jpg" crc="219293730" ref="index"/>
+    <file name="work-in-progress-1024x603.png" crc="402739671" ref="index"/>
+    <file name="work-in-progress-1024x603_2x.png" crc="217783734" ref="index"/>
+    <file name="o81g700.jpg" crc="448708" ref="index"/>
+    <file name="o81g700_2x.jpg" crc="155708892" ref="index"/>
+    <file name="u913-42.png" crc="334446010" ref="index"/>
+    <file name="u913-4_2x2.png" crc="3958053305" ref="index"/>
+    <file name="u1024-4.png" crc="527243917" ref="untitled-2"/>
+    <file name="u1024-4_2x.png" crc="257377429" ref="untitled-2"/>
+    <file name="brick.jpg" crc="4102423691" ref="index:phone>index"/>
+    <file name="work-in-progress-1024x603-u3267-fr.png" crc="404386998" ref="phone>index:phone>home"/>
+    <file name="work-in-progress-1024x603-u3267-fr_2x.png" crc="3948816992" ref="phone>index:phone>home"/>
+    <file name="brick2.jpg" crc="3838393540" ref="phone>home"/>
+    <file name="brick_2x.jpg" crc="4102423691" ref="phone>home"/>
+  </folder>
+  <file name="index.html" crc="460900488" seo="true" mt="1489672162979" redirect="true"/>
+  <file name="untitled-2.html" crc="513126802" seo="true" mt="1489677906175" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Anurag Pradhan" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U1440" maxwidth="1055" minwidth="0" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1080" minwidth="1056" squishy="false"/>
+        <anchor name="About-me" html_id="about-me" muse_href="anchor:U82:U2833" includeInBPs="U1440,U83"/>
+        <anchor name="Interest-area" html_id="interest-area" muse_href="anchor:U82:U2837" includeInBPs="U1440,U83"/>
+        <anchor name="skills" html_id="skills" muse_href="anchor:U82:U2841" includeInBPs="U1440,U83"/>
+        <anchor name="portfolio" html_id="portfolio" muse_href="anchor:U82:U2845" includeInBPs="U1440,U83"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U82:U2992" includeInBPs="U1440,U83"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U82:U3042" includeInBPs="U1440,U83"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1080" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1080" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Untitled 2" filename="untitled-2.html" muse_href="page:U983" master="U72">
+        <breakpoint uid="U971" maxwidth="1080" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Homekaishu" filename="index.html" muse_href="page:U3224" master="U3203">
+        <breakpoint uid="U3214" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="bottop" html_id="bottop" muse_href="anchor:U3213:U3268" includeInBPs="U3214"/>
+      </page>
+      <masterPage name="A-Master" master="U3193" uid="U3203">
+        <breakpoint uid="U3204" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U3193">
+        <breakpoint uid="U3194" maxwidth="380" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Home" filename="home.html" muse_href="page:U3297" master="U3203">
+        <breakpoint uid="U3287" maxwidth="380" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
